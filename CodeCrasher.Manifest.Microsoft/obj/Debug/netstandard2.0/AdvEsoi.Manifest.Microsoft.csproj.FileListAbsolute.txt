@@ -1,0 +1,16 @@
+C:\ForMicrosoft\AdvEsoi.Manifest.Microsoft\bin\Debug\netstandard2.0\AdvEsoi.Manifest.Microsoft.deps.json
+C:\ForMicrosoft\AdvEsoi.Manifest.Microsoft\bin\Debug\netstandard2.0\AdvEsoi.Manifest.Microsoft.dll
+C:\ForMicrosoft\AdvEsoi.Manifest.Microsoft\bin\Debug\netstandard2.0\AdvEsoi.Manifest.Microsoft.pdb
+C:\ForMicrosoft\AdvEsoi.Manifest.Microsoft\obj\Debug\netstandard2.0\AdvEsoi.Manifest.Microsoft.csproj.CoreCompileInputs.cache
+C:\ForMicrosoft\AdvEsoi.Manifest.Microsoft\obj\Debug\netstandard2.0\AdvEsoi.Manifest.Microsoft.AssemblyInfoInputs.cache
+C:\ForMicrosoft\AdvEsoi.Manifest.Microsoft\obj\Debug\netstandard2.0\AdvEsoi.Manifest.Microsoft.AssemblyInfo.cs
+C:\ForMicrosoft\AdvEsoi.Manifest.Microsoft\obj\Debug\netstandard2.0\AdvEsoi.Manifest.Microsoft.dll
+C:\ForMicrosoft\AdvEsoi.Manifest.Microsoft\obj\Debug\netstandard2.0\AdvEsoi.Manifest.Microsoft.pdb
+C:\ForMicrosoft\General\AdvEsoi.Manifest.Microsoft\bin\Debug\netstandard2.0\AdvEsoi.Manifest.Microsoft.deps.json
+C:\ForMicrosoft\General\AdvEsoi.Manifest.Microsoft\bin\Debug\netstandard2.0\AdvEsoi.Manifest.Microsoft.dll
+C:\ForMicrosoft\General\AdvEsoi.Manifest.Microsoft\bin\Debug\netstandard2.0\AdvEsoi.Manifest.Microsoft.pdb
+C:\ForMicrosoft\General\AdvEsoi.Manifest.Microsoft\obj\Debug\netstandard2.0\AdvEsoi.Manifest.Microsoft.csproj.CoreCompileInputs.cache
+C:\ForMicrosoft\General\AdvEsoi.Manifest.Microsoft\obj\Debug\netstandard2.0\AdvEsoi.Manifest.Microsoft.AssemblyInfoInputs.cache
+C:\ForMicrosoft\General\AdvEsoi.Manifest.Microsoft\obj\Debug\netstandard2.0\AdvEsoi.Manifest.Microsoft.AssemblyInfo.cs
+C:\ForMicrosoft\General\AdvEsoi.Manifest.Microsoft\obj\Debug\netstandard2.0\AdvEsoi.Manifest.Microsoft.dll
+C:\ForMicrosoft\General\AdvEsoi.Manifest.Microsoft\obj\Debug\netstandard2.0\AdvEsoi.Manifest.Microsoft.pdb

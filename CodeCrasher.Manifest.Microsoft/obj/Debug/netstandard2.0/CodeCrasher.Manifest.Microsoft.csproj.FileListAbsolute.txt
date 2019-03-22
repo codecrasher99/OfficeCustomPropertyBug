@@ -1,0 +1,16 @@
+C:\ForMicrosoft\CodeCrasher\CodeCrasher.Manifest.Microsoft\bin\Debug\netstandard2.0\CodeCrasher.Manifest.Microsoft.deps.json
+C:\ForMicrosoft\CodeCrasher\CodeCrasher.Manifest.Microsoft\bin\Debug\netstandard2.0\CodeCrasher.Manifest.Microsoft.dll
+C:\ForMicrosoft\CodeCrasher\CodeCrasher.Manifest.Microsoft\bin\Debug\netstandard2.0\CodeCrasher.Manifest.Microsoft.pdb
+C:\ForMicrosoft\CodeCrasher\CodeCrasher.Manifest.Microsoft\obj\Debug\netstandard2.0\CodeCrasher.Manifest.Microsoft.csproj.CoreCompileInputs.cache
+C:\ForMicrosoft\CodeCrasher\CodeCrasher.Manifest.Microsoft\obj\Debug\netstandard2.0\CodeCrasher.Manifest.Microsoft.AssemblyInfoInputs.cache
+C:\ForMicrosoft\CodeCrasher\CodeCrasher.Manifest.Microsoft\obj\Debug\netstandard2.0\CodeCrasher.Manifest.Microsoft.AssemblyInfo.cs
+C:\ForMicrosoft\CodeCrasher\CodeCrasher.Manifest.Microsoft\obj\Debug\netstandard2.0\CodeCrasher.Manifest.Microsoft.dll
+C:\ForMicrosoft\CodeCrasher\CodeCrasher.Manifest.Microsoft\obj\Debug\netstandard2.0\CodeCrasher.Manifest.Microsoft.pdb
+C:\ForMicrosoft\OfficeCustomPropertyBug\CodeCrasher.Manifest.Microsoft\bin\Debug\netstandard2.0\CodeCrasher.Manifest.Microsoft.deps.json
+C:\ForMicrosoft\OfficeCustomPropertyBug\CodeCrasher.Manifest.Microsoft\bin\Debug\netstandard2.0\CodeCrasher.Manifest.Microsoft.dll
+C:\ForMicrosoft\OfficeCustomPropertyBug\CodeCrasher.Manifest.Microsoft\bin\Debug\netstandard2.0\CodeCrasher.Manifest.Microsoft.pdb
+C:\ForMicrosoft\OfficeCustomPropertyBug\CodeCrasher.Manifest.Microsoft\obj\Debug\netstandard2.0\CodeCrasher.Manifest.Microsoft.csproj.CoreCompileInputs.cache
+C:\ForMicrosoft\OfficeCustomPropertyBug\CodeCrasher.Manifest.Microsoft\obj\Debug\netstandard2.0\CodeCrasher.Manifest.Microsoft.AssemblyInfoInputs.cache
+C:\ForMicrosoft\OfficeCustomPropertyBug\CodeCrasher.Manifest.Microsoft\obj\Debug\netstandard2.0\CodeCrasher.Manifest.Microsoft.AssemblyInfo.cs
+C:\ForMicrosoft\OfficeCustomPropertyBug\CodeCrasher.Manifest.Microsoft\obj\Debug\netstandard2.0\CodeCrasher.Manifest.Microsoft.dll
+C:\ForMicrosoft\OfficeCustomPropertyBug\CodeCrasher.Manifest.Microsoft\obj\Debug\netstandard2.0\CodeCrasher.Manifest.Microsoft.pdb
